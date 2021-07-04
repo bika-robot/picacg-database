@@ -50,7 +50,7 @@ class MainInfo(object):
         self._inQueue = Queue()
         self._resultQueue = Queue()
 
-        self.checkPage = 10
+        self.checkPage = 2
         self.categoryIndex = 0
         self.count = 0
         self.idToCateGoryBase = []
